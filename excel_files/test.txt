@@ -1,0 +1,15 @@
+Species	Date collected	plot	sex	weight	unit of measure	scale calibration	field season
+DM	7/16/13	2	F	Null	Null	yes	2013
+DM	7/16/13	7	M	33	g	yes	2013
+DM	7/16/13	3	M	Null	Null	yes	2013
+DM	7/16/13	1	M	Null	Null	yes	2013
+DM	7/18/13	3	M	40	g	yes	2013
+DM	7/18/13	7	M	48	g	yes	2013
+DM	7/18/13	4	F	29	g	yes	2013
+DM	7/18/13	6	F	37	g	yes	2013
+DO	8/19/13	8	F	52	g		
+DO	10/17/13	3	F	33	g		
+DO	10/17/13	3	F	50	g		
+DO	12/10/13	9	F	40	g		
+DO	12/10/13	1	M	45	g		
+DO	12/11/13	8	F	41	g		
