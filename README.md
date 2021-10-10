@@ -3,16 +3,15 @@
 
 ## Lists
 
-* Hi
-* Bye
-  * 2a
-  * 2b
+* To-do list:
+  * Homework01
+  * Eat unfinished taco
 
 ### Table 
 
-First Header | Second Header
+Ciara Hu | Jobelle Peralta
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+Helped with homework | Helped with homework
 Content in the first column | Content in the second column
 
 
